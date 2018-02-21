@@ -1,4 +1,4 @@
-# Assignment 4: Image classification
+# Image Orientation classification
 
 ## Data Description
 
@@ -9,7 +9,7 @@
 - `test-data.txt`: 943 test images
 
 ```
-[hankjang@silo hankjang-maloop-shynaras-a4]$ wc -l train-data.txt test-data.txt
+[maloop@silo hankjang-maloop-shynaras-a4]$ wc -l train-data.txt test-data.txt
    36976 train-data.txt
      943 test-data.txt
    37919 total
