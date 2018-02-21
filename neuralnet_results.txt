@@ -1,0 +1,4 @@
+('Test', '71.0%', 'train', '74.0%', 'log loss', 1.1256631005084758, 'alpha', 0.3, 'iterations', 1000, 'lambd', 0.1, 'layers', [192, 16, 4], 'PCA', False)
+('Test', '71.0%', 'train', '74.0%', 'log loss', 1.1255573081661099, 'alpha', 0.3, 'iterations', 1000, 'lambd', 0, 'layers', [192, 16, 4], 'PCA', False)
+('Test', '73.0%', 'train', '75.0%', 'log loss', 1.085697682206852, 'alpha', 0.3, 'iterations', 2000, 'lambd', 0, 'layers', [192, 16, 4], 'PCA', False)
+('Test', '71.0%', 'train', '75.0%', 'log loss', 1.1638119600240855, 'alpha', 0.3, 'iterations', 2000, 'lambd', 0, 'layers', [192, 16, 4], 'PCA', False)
